@@ -1,0 +1,15 @@
+{
+  "name": "Broswer-based Site",
+  "short_name": "broswer-based-site",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFDAB9",
+  "theme_color": "#FFDAB9",
+  "icons": [
+    {
+      "src": "logoPWA.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
